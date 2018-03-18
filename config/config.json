@@ -1,0 +1,11 @@
+{
+    "PORT": 3000,
+    "HOST": "localhost",
+    "mongo": {
+        "mongohost"	: "localhost",
+        "port"		: 27017,
+        "database"	: "Ecom",
+        "username"	: "",
+        "password"	: ""
+    }
+}
